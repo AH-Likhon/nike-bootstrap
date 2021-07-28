@@ -3,7 +3,6 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif ! important;
 }
 
 /* .cutsom-fonts{
@@ -12,16 +11,23 @@
 
 .bg-custom-header{
     background-color: #f1caaa;
+    font-family: 'Poppins', sans-serif ! important;
 }
 
 .title-custom-color-1{
     color: #FA804C;
+    font-family: 'Poppins', sans-serif ! important;
 }
 
 .title-custom-color-2{
     color: #363958;
+    font-family: 'Poppins', sans-serif ! important;
 }
 
 .bg-buy-now{
     background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+
+.fas.fa-house-user, .fas.fa-box-open, .fas.fa-headphones{
+    font-size: 50px;
 }
