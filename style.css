@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif ! important;
+}
+
+/* .cutsom-fonts{
+    font-family: 'Poppins', sans-serif ;
+} */
+
+.bg-custom-header{
+    background-color: #f1caaa;
+}
+
+.title-custom-color-1{
+    color: #FA804C;
+}
+
+.title-custom-color-2{
+    color: #363958;
+}
+
+.bg-buy-now{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
